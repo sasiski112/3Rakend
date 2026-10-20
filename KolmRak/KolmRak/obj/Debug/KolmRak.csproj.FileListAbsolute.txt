@@ -1,0 +1,9 @@
+C:\Users\opilane\source\repos\NIKITA S\KolmRak\KolmRak\bin\Debug\KolmRak.exe.config
+C:\Users\opilane\source\repos\NIKITA S\KolmRak\KolmRak\bin\Debug\KolmRak.exe
+C:\Users\opilane\source\repos\NIKITA S\KolmRak\KolmRak\bin\Debug\KolmRak.pdb
+C:\Users\opilane\source\repos\NIKITA S\KolmRak\KolmRak\obj\Debug\KolmRak.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\NIKITA S\KolmRak\KolmRak\obj\Debug\KolmRak.Properties.Resources.resources
+C:\Users\opilane\source\repos\NIKITA S\KolmRak\KolmRak\obj\Debug\KolmRak.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\NIKITA S\KolmRak\KolmRak\obj\Debug\KolmRak.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\NIKITA S\KolmRak\KolmRak\obj\Debug\KolmRak.exe
+C:\Users\opilane\source\repos\NIKITA S\KolmRak\KolmRak\obj\Debug\KolmRak.pdb
